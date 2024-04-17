@@ -1,0 +1,31 @@
+Debug: true
+IP: "127.0.0.1"
+Ports:
+  provider: 29300
+  gamedbd: 29400
+  gdeliveryd: 29100
+MySQL:
+  Host: "127.0.0.1"
+  Usuario: "root"
+  Senha: "DB_PASSWORD"
+  DB: "pw"
+QuantidadeDeSorteados: 2
+GmReceber: true
+LevelMinimo: 1
+CultivoMinimo: 0
+CanalMensagem: 9
+Moedas: [1000, 2000, 3000]
+Golds: [10, 20, 30]
+ItensSortear:
+  - 
+    ID: 7749
+    Nome: "Oráculo 12"
+    Pos: 0
+    Count: 1
+    MaxCount: 30
+    Data: "13080000"
+    ProcType: 0
+    ExpireDate: 0
+    GUID1: 0
+    GUID2: 0
+    Mask: 0
