@@ -83,6 +83,6 @@ Para mais informações, sugestões ou contribuições, sinta-se à vontade para
 - [**GitHub**](https://github.com/frankduque)
 - [**LinkedIn**](https://www.linkedin.com/in/frankduque3/)
 -  [**Whatsapp**](https://api.whatsapp.com/send?phone=5562992844985&text=Ol%C3%A1%20Frank%20como%20vai?)
-- **E-mail**: contato@frankduque.com
+- **E-mail**: franklr2229@gmail.com
 
 Estou sempre aberto a feedbacks e colaborações para tornar este projeto ainda melhor!
